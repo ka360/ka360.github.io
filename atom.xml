@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ka360.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-07T14:28:57.959Z</updated>
+    <updated>2020-03-10T08:55:47.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ka360.github.io"/>
     <link rel="self" href="https://ka360.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://ka360.github.io/images/avatar.png</logo>
     <icon>https://ka360.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年3月9日]]></title>
+        <id>https://ka360.github.io/post/2020-nian-3-yue-9-ri/</id>
+        <link href="https://ka360.github.io/post/2020-nian-3-yue-9-ri/">
+        </link>
+        <updated>2020-03-08T16:45:21.000Z</updated>
+        <content type="html"><![CDATA[<p>雨......夜,晚安!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年3月8日]]></title>
+        <id>https://ka360.github.io/post/2020-nian-3-yue-8-ri/</id>
+        <link href="https://ka360.github.io/post/2020-nian-3-yue-8-ri/">
+        </link>
+        <updated>2020-03-08T06:28:55.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="今天是休假的第四十五天">今天是休假的第四十五天.</h4>
+<h4 id="这些天的收获总结下">这些天的收获总结下:</h4>
+<ol>
+<li>
+<p>可转债课程:结束后还没有开始实操</p>
+</li>
+<li>
+<p>《马原》课程:刷题.</p>
+</li>
+<li>
+<p>驾考题:刷题</p>
+</li>
+<li>
+<p>复盘笔记:没坚持下来</p>
+</li>
+<li>
+<p>减肥:没坚持</p>
+</li>
+<li>
+<p>.......</p>
+<p>总结的好泄气啊😞</p>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嗯]]></title>
         <id>https://ka360.github.io/post/ng/</id>
