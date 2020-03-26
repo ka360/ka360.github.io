@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ka360.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-10T17:11:14.329Z</updated>
+    <updated>2020-03-26T15:37:51.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ka360.github.io"/>
     <link rel="self" href="https://ka360.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://ka360.github.io/images/avatar.png</logo>
     <icon>https://ka360.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年3月26日 ]]></title>
+        <id>https://ka360.github.io/post/2020-nian-3-yue-26-ri/</id>
+        <link href="https://ka360.github.io/post/2020-nian-3-yue-26-ri/">
+        </link>
+        <updated>2020-03-26T15:00:49.000Z</updated>
+        <content type="html"><![CDATA[<p>闫老师的小课堂(第二节)<br>
+理性与感性的碰撞<br>
+程序的编码对于我来说真的好复杂啊<br>
+口令更是蒙圈<br>
+燕 闫 似个撒子</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年3月11日]]></title>
         <id>https://ka360.github.io/post/2020-nian-3-yue-11-ri/</id>
